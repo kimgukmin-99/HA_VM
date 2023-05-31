@@ -16,11 +16,11 @@ alias C sum
 alias D zero
 pop cnt
 push 12
-je cnt, zero
+je cnt zero
 pop x
 acc sum x
 sub cnt 1
 push 5
-je zero, zero
+je zero zero
 push sum
 ret

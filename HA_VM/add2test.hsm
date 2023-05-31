@@ -8,6 +8,16 @@ int8 add2(int8 A, int8 B) {
 	return B;
 }
 !
-push 10
-push 11
+alias A cnt
+alias B x
+alias C sum
+alias D zero
+pop cnt
+push 50
+push 12
+pop sum
+add sum 3
+sub sum 3
+neg sum
+acc sum cnt
 ret
