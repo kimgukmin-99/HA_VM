@@ -148,6 +148,14 @@
     <ClInclude Include="..\..\..\..\Desktop\23_1\OS\HA-VM skeleton code\hsm.h" />
     <ClInclude Include="..\..\..\..\Desktop\23_1\OS\HA-VM skeleton code\stack_int8.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="add2.hsm" />
+    <None Include="add2test.hsm" />
+    <None Include="larger.hsm" />
+    <None Include="sub2.hsm" />
+    <None Include="sum_args.hsm" />
+    <None Include="sum_under.hsm" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

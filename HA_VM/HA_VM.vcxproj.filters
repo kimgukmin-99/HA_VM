@@ -36,4 +36,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="add2.hsm" />
+    <None Include="add2test.hsm" />
+    <None Include="larger.hsm" />
+    <None Include="sub2.hsm" />
+    <None Include="sum_args.hsm" />
+    <None Include="sum_under.hsm" />
+  </ItemGroup>
 </Project>
