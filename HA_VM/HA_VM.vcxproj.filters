@@ -38,7 +38,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="add2.hsm" />
-    <None Include="add2test.hsm" />
+    <None Include="test.hsm" />
     <None Include="larger.hsm" />
     <None Include="sub2.hsm" />
     <None Include="sum_args.hsm" />

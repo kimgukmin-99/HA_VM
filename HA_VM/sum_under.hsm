@@ -18,6 +18,6 @@ pop n
 add x 1
 acc sum x
 push 5
-je x n
+jl x n
 push sum
 ret
